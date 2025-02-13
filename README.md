@@ -1,12 +1,25 @@
 # **🤖 AI Python Code Reviewer**
 
-A **Streamlit-based** web app that helps you review Python code, detect bugs, and get AI-generated fixes using **Google Gemini AI**
+A **Streamlit-powered app** that reviews Python code for bugs and inefficiencies using **Google Gemini AI**. It provides bug reports, improved code snippets, and explanations to help developers write better code.
 
 ## **🔹Features**
-- 📝**Enter Python code** - Paste your python code for review
-- 🔍**Bug Detection** - AI identifies errors and suggests improvements
-- 🛠**Code Fixes** - Get corrected code snippets instantly
-- 📌**User Friendly UI** - Built using Streamlit for s smooth experience
+- ✅ **Detect Bugs & Errors** – AI identifies potential issues in Python code.
+- ✅ **Suggest Fixes** – Provides corrected code snippets with explanations.
+- ✅ **User-Friendly UI** – Simple interface built with Streamlit.
+- ✅ **Instant Feedback** – Get AI-powered insights in real-time.
+- ✅ **Handles Only Python Queries** – Strictly focused on Python-related questions.
+
+## **🖥️ Tech Stack**
+- Python
+- Streamlit
+- Google Gemini AI
+- Dotenv
+
+
+
+
+
+https://github.com/user-attachments/assets/e853eb77-0839-4905-8a77-f9169af2a7c1
 
 
 
