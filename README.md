@@ -38,7 +38,7 @@ After installing the required libraries and setting up the .env file, run the ap
 streamlit run app.py
 ```
 
-https://github.com/user-attachments/assets/e853eb77-0839-4905-8a77-f9169af2a7c1
+[https://github.com/user-attachments/assets/e853eb77-0839-4905-8a77-f9169af2a7c1](https://github.com/user-attachments/assets/9ae4d909-e2f8-438d-882a-75089ab0e630)
 
 ## **How It Works**
 1. Paste your Python Code - Enter your python code in the text box
